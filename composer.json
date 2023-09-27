@@ -1,0 +1,19 @@
+{
+    "name": "touhid/million-to-bdt",
+    "description": "This package is used for converting from million to bdt",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Touhid\\MillionToBdt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tuhedul Islam",
+            "email": "tuhedulislamh15@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
